@@ -23,13 +23,13 @@ This project is a complete **Tutorial Management System** where administrators c
 ## 📷 Screenshots
 
 ### 🔧 Admin Dashboard
-![Admin Dashboard](screenshots/admin dashboard.png)
+![Admin Dashboard](screenshots/admindashboard.png)
 
 ### 👨‍🎓 Student Dashboard
 ![Student Dashboard](screenshots/studedashboard.png)
 
-### 📥 Enrollment Page
-![Enrollment](screenshots/home.png)
+### 📥 Home Page
+![Home](screenshots/home.png)
 
 
 ### 🎓 Student Panel
@@ -37,6 +37,8 @@ This project is a complete **Tutorial Management System** where administrators c
 - View enrolled tutorials
 - Access tutorial content
 - Track assigned subjects
+### 📥 Stude login Page
+![Studelogin](screenshots/studloginpage.png)
 
 ### ⚙️ System Architecture
 - Modular PHP structure
