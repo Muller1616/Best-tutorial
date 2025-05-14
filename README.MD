@@ -22,8 +22,8 @@ This project is a complete **Tutorial Management System** where administrators c
 - Responsive dashboard interface
 ## 📷 Screenshots
 
-### 🔧 Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)
+### 🔧 Stude registration home page 
+![Admin Dashboard](screenshots/studeregispage.png)
 
 ### 👨‍🎓 Student Dashboard
 ![Student Dashboard](screenshots/studedashboard.png)
