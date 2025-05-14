@@ -20,6 +20,17 @@ This project is a complete **Tutorial Management System** where administrators c
 - Manage students and subjects
 - View enrollments and tutorial data
 - Responsive dashboard interface
+## 📷 Screenshots
+
+### 🔧 Admin Dashboard
+![Admin Dashboard](screenshots/admin dashboard.png)
+
+### 👨‍🎓 Student Dashboard
+![Student Dashboard](screenshots/studedashboard.png)
+
+### 📥 Enrollment Page
+![Enrollment](screenshots/home.png)
+
 
 ### 🎓 Student Panel
 - Login & registration system
